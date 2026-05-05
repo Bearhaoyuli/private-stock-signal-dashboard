@@ -37,7 +37,6 @@ def _build_stock_catalog(whitelist: dict[str, dict[str, str]]) -> list[StockReco
             avg_volume=float(data["avg_volume"]),
         )
         for ticker, data in whitelist.items()
-        if ticker != "SPY"
     ]
 
 
