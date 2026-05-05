@@ -1,0 +1,8 @@
+ticker,company_name,exchange,sector,market_cap,avg_volume
+AAPL,Apple Inc.,NASDAQ,Technology,2900000000000,62000000
+NVDA,NVIDIA Corporation,NASDAQ,Semiconductors,2200000000000,52000000
+TSLA,Tesla Inc.,NASDAQ,Consumer Discretionary,580000000000,96000000
+AMD,Advanced Micro Devices,NASDAQ,Semiconductors,280000000000,61000000
+SOFI,SoFi Technologies Inc.,NASDAQ,Financials,8500000000,47000000
+SPY,SPDR S&P 500 ETF Trust,NYSE Arca,ETF,510000000000,78000000
+
